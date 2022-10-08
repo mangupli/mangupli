@@ -1,9 +1,16 @@
-### Hi there 👋
+:sparkles:
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mangupli&layout=compact"/>
 
 <!--
 **mangupli/mangupli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+https://gist.github.com/rxaviers/7360908
+
+
+INSPO HERE https://towardsdatascience.com/enrich-your-github-profile-with-these-tips-272fa1eafe05
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
