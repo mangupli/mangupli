@@ -27,10 +27,10 @@
     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=mangupli&repo=currency-converter"/></td>
     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=mangupli&repo=42_ft_printf"/></td>
   </tr> 
-  <!--<tr>
+  <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=mangupli&repo=prepared-meals-delivery-website"/></td>
     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=mangupli&repo=42_ft_printf"/></td>
-  </tr> -->
+  </tr> 
   <tr>
     <td>and more...</td>
     <td>and more...</td>
