@@ -6,7 +6,7 @@
 - 🔭 I’m interested in creating user-friendly interfaces
 - :pray: I’m dreaming about all the wars in the world to be over
 
-<table style="border: none">
+<!--<table style="border: none">
   <tr>
     <td><b>Latest work on interfaces</b></td>
     <td><b>Projects of Ecole 42</b></td>
@@ -48,7 +48,7 @@
     <td></td>
   </tr>
  
-</table>
+</table> -->
 
 
 <!--
