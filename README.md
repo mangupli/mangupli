@@ -1,10 +1,9 @@
 ### Hi there! :sparkles:
 
-
-- :v::earth_asia: Digital nomad
 - 🌱 I’m currently learning Javascript and frameworks
-- 🔭 I’m interested in creating user-friendly interfaces
-- :pray: I’m dreaming about all the wars in the world to be over
+- :hugs: I see any interface as a meeting point of a programmed machine and a human. That's why I'm excited to make these communication spots more user-friendly, beautiful and efficient.
+- :nerd_face: I'm interesed to understand complex and difficult things and explain them to others. Let's work it out together!
+- :heartbeat: I love open-source projects and would be excited to contribute to one of those.
 
 <!--<table style="border: none">
   <tr>
