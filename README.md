@@ -1,8 +1,9 @@
 ### Hi there! :sparkles:
 
 - 🌱 Writing mostly in Javascript and frameworks, interested at building microfrontends
-- :hugs: I see any interface as a meeting point of a programmed machine and a human. That's why I'm excited to make these communication spots more user-friendly, beautiful and efficient.
-- :nerd_face: I'm interesed to understand complex and difficult things and explain them to others. Let's work it out together!
+- :sparkles: I'd love to make programming more enjoyable and accessible for people regardless of fears, stereotypes, or other obstacles they may face
+- :hugs: I see any interface as a meeting point of a programmed machine and a human. That's why I'm excited to make these communication spots more user-friendly, beautiful and efficient
+-  :nerd_face:I'm interesed to understand complex and difficult things and explain them to others. Let's work it out together!
 
 <!--<table style="border: none">
   <tr>
