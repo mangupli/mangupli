@@ -1,7 +1,7 @@
 ### Hi there! I'm Lisa, Full-stack Developer based in Melbourne :sparkles: 
 
 - 🌱 Open to work on a new project! 
-- 👩🏻‍💻 4+ years full-stack experience (Typescript, React, Next, Node, Redux Toolkit, SQL, Docker, HTML5, CSS, PHP)
+- 👩🏻‍💻 4+ years full-stack experience (Typescript, React, Next, Node, Redux Toolkit, SQL, Docker, HTML5, CSS, PHP, C, C++)
 - 👾 Passionate about EdTech
 - 🫶 I see any interface as a meeting point of a programmed machine and a human: \
            I want to make these communication spots more user-friendly, beautiful and efficient
