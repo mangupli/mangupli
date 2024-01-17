@@ -1,9 +1,11 @@
-### Hi there! :sparkles:
+### Hi there! I'm Lisa, Full-stack Developer based in Melbourne :sparkles: 
 
-- 🌱 Writing mostly in Javascript and frameworks
-- :sparkles: I'd love to make programming more enjoyable and accessible for people regardless of fears, stereotypes, or other obstacles they may face
-- :hugs: I see any interface as a meeting point of a programmed machine and a human. That's why I'm excited to make these communication spots more user-friendly, beautiful and efficient
--  :nerd_face:I'm interesed to understand complex and difficult things and explain them to others. Let's work it out together!
+- 🌱 Open to work on a new project! 
+- 👩🏻‍💻 4+ years full-stack experience (Typescript, React, Next, Node, Redux Toolkit, SQL, Docker, HTML5, CSS, PHP)
+- 👾 Passionate about EdTech
+- 🫶 I see any interface as a meeting point of a programmed machine and a human: \
+           I want to make these communication spots more user-friendly, beautiful and efficient
+
 
 <!--<table style="border: none">
   <tr>
