@@ -1,10 +1,9 @@
 ### Hi there! I'm Lisa, Full-stack Developer based in Melbourne :sparkles: 
 
-- 🌱 Open to work on a new project! Check out my CV: https://github.com/mangupli/cv
+- 🙌 Open to work on a new project! Check out my CV: https://github.com/mangupli/cv
 - 👩🏻‍💻 4+ years full-stack experience (Typescript, React, Next, Node, Redux Toolkit, SQL, Docker, HTML5, CSS, PHP, C, C++)
 - 👾 Passionate about EdTech
-- 🫶 I see any interface as a meeting point of a programmed machine and a human: \
-           I want to make these communication spots more user-friendly, beautiful and efficient
+- 🌱 Writing code for humans, simplicity is my beauty
 
 
 <!--<table style="border: none">
