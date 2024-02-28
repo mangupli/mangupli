@@ -1,6 +1,5 @@
 ### Hi there! I'm Lisa, Software engineer based in Melbourne :sparkles: 
 
-- 👩🏻‍💻 4+ years experience (Typescript, React, Next, Node, Redux Toolkit, SQL, Docker, HTML5, CSS, PHP, C, C++)
 - 👾 Passionate about EdTech
 - 🌱 Writing code for humans, simplicity is my beauty
 
